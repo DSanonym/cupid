@@ -1,0 +1,43 @@
+[project]
+name = "bionpxgnn"
+version = "0.1.0"
+description = "Bioinformatics and Graph Neural Network analysis of biosynthetic gene clusters"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    # Deep Learning
+    "torch>=2.0,<3",
+    "torch-geometric>=2.5",
+    # Bioinformatics
+    "biopython>=1.83",
+    # Data Science
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "openpyxl>=3.1",     # pandas.read_excel backend, needed by notebook 10
+    "scipy>=1.10",
+    # Visualization
+    "matplotlib>=3.7",
+    "seaborn>=0.13",
+    "plotly>=5.20",
+    # ML utilities
+    "scikit-learn>=1.3",
+    "tqdm>=4.66",
+    # Notebooks
+    "jupyterlab>=4.0",
+    "ipykernel>=6.0",
+    # Networking / downloads
+    "requests>=2.31",
+    # Serialization
+    "PyYAML>=6.0",
+    "jsonschema>=4.0",
+    # Graph analysis
+    "networkx>=3.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+package = false

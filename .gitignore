@@ -1,3 +1,26 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Raw downloads (large, refetchable) — the built graphs in data/ ARE tracked,
+# so the repository stays reproducible even as antiSMASH-DB changes upstream.
+data/raw/
+data/processed/
+
+# Generated figures
+output/**/*.png
+output/**/*.pdf
+output/**/*.jpg
+output/**/*.svg
+
+# Scripts produced by `jupyter nbconvert --to script`
+notebooks/*.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

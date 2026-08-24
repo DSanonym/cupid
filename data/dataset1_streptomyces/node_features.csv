@@ -1,0 +1,175 @@
+node,ntype,size,unit,n_regions,bgc_class,label
+BGC0000001.5,family,97709.0,bp,1.0,nrp-metallophore - nrps - t1pks hybrid,BGC0000001.5
+BGC0000034.5,family,244508.0,bp,2.0,lanthipeptide-class-ii - lanthipeptide-class-iii - nrps - nrps-like - t1pks - terpene-precursor hybrid,BGC0000034.5 (candicidin)
+BGC0000040.5,family,124550.0,bp,1.0,azole-containing-ripp - nrps-like - t1pks hybrid,BGC0000040.5 (concanamycin A)
+BGC0000065.5,family,41041.0,bp,2.0,pks-like,BGC0000065.5
+BGC0000140.5,family,71262.0,bp,4.0,azole-containing-ripp - butyrolactone - pks-like - t1pks - t3nrps-iterative hybrid,BGC0000140.5
+BGC0000175.5,family,71846.0,bp,2.0,lanthipeptide-class-iv - nrps-like - transat-pks hybrid,BGC0000175.5 (cycloheximide)
+BGC0000195.5,family,72612.0,bp,2.0,t2pks,BGC0000195.5 (alnumycin A/alnumycin…)
+BGC0000249.5,family,48670.0,bp,3.0,nrps,BGC0000249.5
+BGC0000262.5,family,72483.0,bp,3.0,butyrolactone - t2pks hybrid,BGC0000262.5
+BGC0000271.5,family,72516.0,bp,33.0,t2pks,BGC0000271.5 (spore pigment)
+BGC0000282.3,family,41065.0,bp,20.0,t3pks,BGC0000282.3 (2-methoxy-5-methyl-6-(13-…)
+BGC0000324.5,family,65456.0,bp,7.0,nrp-metallophore - nrps hybrid,BGC0000324.5 (coelibactin)
+BGC0000325.5,family,58512.0,bp,24.0,nrp-metallophore - nrps hybrid,BGC0000325.5 (coelichelin)
+BGC0000340.5,family,21164.0,bp,3.0,terpene-precursor,BGC0000340.5 (echoside A/echoside…)
+BGC0000354.5,family,134109.0,bp,4.0,azole-containing-ripp - lassopeptide - ni-siderophore - nrps - nrps-like hybrid,BGC0000354.5 (friulimicin A/friulimicin…)
+BGC0000368.5,family,54987.0,bp,6.0,nrp-metallophore - nrps hybrid,BGC0000368.5 (griseobactin)
+BGC0000382.5,family,43261.0,bp,2.0,nrps-like,BGC0000382.5
+BGC0000392.5,family,49993.0,bp,5.0,nrps,BGC0000392.5 (mirubactin)
+BGC0000401.5,family,48516.0,bp,4.0,nrp-metallophore - nrps hybrid,BGC0000401.5 (paenibactin)
+BGC0000423.5,family,67493.0,bp,8.0,nrp-metallophore - nrps hybrid,BGC0000423.5 (scabichelin)
+BGC0000496.5,family,22643.0,bp,6.0,lanthipeptide-class-iii,BGC0000496.5 (AmfS)
+BGC0000518.3,family,22718.0,bp,22.0,ripp-like,BGC0000518.3 (informatipeptin)
+BGC0000546.3,family,22614.0,bp,4.0,lanthipeptide-class-iii,BGC0000546.3 (SAL-2242)
+BGC0000551.5,family,36186.0,bp,5.0,lanthipeptide-class-iii,BGC0000551.5 (SapB)
+BGC0000563.4,family,22716.0,bp,4.0,lanthipeptide-class-iv,BGC0000563.4 (venezuelin)
+BGC0000606.5,family,29567.0,bp,4.0,azole-containing-ripp,BGC0000606.5
+BGC0000633.3,family,25920.0,bp,2.0,terpene,BGC0000633.3 (carotenoid)
+BGC0000658.3,family,21350.0,bp,14.0,terpene,BGC0000658.3 (2-methylisoborneol)
+BGC0000660.5,family,21086.0,bp,26.0,terpene,BGC0000660.5 (albaflavenone)
+BGC0000662.5,family,10396.0,bp,2.0,melanin,BGC0000662.5 (grixazone A)
+BGC0000663.5,family,26665.0,bp,57.0,terpene,BGC0000663.5 (hopene)
+BGC0000664.5,family,28346.0,bp,27.0,terpene,BGC0000664.5 +2 (isorenieratene)
+BGC0000678.5,family,21152.0,bp,5.0,terpene-precursor,BGC0000678.5
+BGC0000683.3,family,25142.0,bp,4.0,terpene,BGC0000683.3 (avermitilol)
+BGC0000842.5,family,140310.0,bp,2.0,blactam - nrps - t1pks - t3nrps-iterative hybrid,BGC0000842.5
+BGC0000850.5,family,22157.0,bp,3.0,butyrolactone - terpene hybrid,BGC0000850.5 (γ-butyrolactone)
+BGC0000853.3,family,10399.0,bp,51.0,ectoine,BGC0000853.3 +1 (ectoine)
+BGC0000908.3,family,10567.0,bp,31.0,melanin,BGC0000908.3 +4 (melanin)
+BGC0000934.4,family,47549.0,bp,3.0,other - phenazine - t3pks hybrid,"BGC0000934.4 (5-acetyl-5,10-…)"
+BGC0000940.5,family,29782.0,bp,35.0,ni-siderophore,BGC0000940.5 (desferrioxamin…)
+BGC0000941.3,family,29784.0,bp,12.0,ni-siderophore,BGC0000941.3 (desferrioxamin B)
+BGC0001003.5,family,128312.0,bp,2.0,napaa - nrps - nrps-like - t1pks hybrid,BGC0001003.5 (α-lipomycin)
+BGC0001036.5,family,,bp,,azoxy-crosslink - butyrolactone - melanin - nrps - nrps-like - t1pks - t2pks hybrid,BGC0001036.5
+BGC0001043.4,family,49411.0,bp,4.0,nrps - t1pks hybrid,BGC0001043.4 (SGR PTMs/SGR PTM Compound…)
+BGC0001083.5,family,78603.0,bp,1.0,furan - other - t3pks hybrid,BGC0001083.5 (merochlorin A/merochlorin…)
+BGC0001181.4,family,22202.0,bp,34.0,terpene,BGC0001181.4 (geosmin)
+BGC0001188.3,family,20866.0,bp,2.0,linaridin,BGC0001188.3 (legonaridin)
+BGC0001233.5,family,76380.0,bp,2.0,nrps - t3pks hybrid,BGC0001233.5 (feglymycin)
+BGC0001283.3,family,48184.0,bp,2.0,pks-like - t1pks hybrid,BGC0001283.3 (Bisenarsan)
+BGC0001310.5,family,41086.0,bp,8.0,t3pks,BGC0001310.5 (naringenin)
+BGC0001368.5,family,69268.0,bp,4.0,nrps - nrps-like hybrid,BGC0001368.5 (JBIR-126)
+BGC0001454.5,family,41185.0,bp,3.0,t3pks,BGC0001454.5 (germicidin)
+BGC0001492.5,family,72536.0,bp,2.0,t1pks,BGC0001492.5 (abyssomicin M/abyssomicin…)
+BGC0001519.5,family,155770.0,bp,1.0,butyrolactone - nrps - t1pks - thioamitides hybrid,BGC0001519.5
+BGC0001522.5,family,44029.0,bp,3.0,nrps-like,BGC0001522.5
+BGC0001529.5,family,45242.0,bp,2.0,nrps - terpene-precursor hybrid,BGC0001529.5 (benzastatin J/7-hydroxyl…)
+BGC0001556.5,family,60886.0,bp,2.0,nrps - t1pks - terpene hybrid,BGC0001556.5 (combamide)
+BGC0001574.5,family,44395.0,bp,3.0,nrps,BGC0001574.5 (SF2768)
+BGC0001596.3,family,91202.0,bp,2.0,t2pks,BGC0001596.3 (fluostatin M/fluostatin…)
+BGC0001634.3,family,22698.0,bp,3.0,lassopeptide,BGC0001634.3 (keywimysin)
+BGC0001645.3,family,33586.0,bp,2.0,lanthipeptide-class-v - lassopeptide hybrid,BGC0001645.3 (lagmysin)
+BGC0001662.4,family,167316.0,bp,1.0,t1pks,BGC0001662.4 (mediomycin A)
+BGC0001753.3,family,34001.0,bp,2.0,azole-containing-ripp,BGC0001753.3 (radamycin/globimycin)
+BGC0001758.4,family,,bp,,nrps,BGC0001758.4 (rhizomide A/rhizomide…)
+BGC0001760.5,family,53316.0,bp,1.0,nrps,BGC0001760.5
+BGC0001770.4,family,101300.0,bp,1.0,t1pks - t3nrps-iterative hybrid,BGC0001770.4 (sceliphrolactam)
+BGC0001778.5,family,10375.0,bp,3.0,ectoine,BGC0001778.5
+BGC0001792.5,family,108626.0,bp,3.0,azole-containing-ripp - nrps hybrid,BGC0001792.5 (surugamide A/surugamide D)
+BGC0001808.5,family,53172.0,bp,2.0,deazapurine - nrps hybrid,BGC0001808.5
+BGC0001818.4,family,72732.0,bp,2.0,nrps - t1pks hybrid,BGC0001818.4
+BGC0001840.2,family,53463.0,bp,5.0,nrps,BGC0001840.2 (detoxin S1)
+BGC0002006.2,family,22461.0,bp,4.0,lassopeptide,BGC0002006.2 (albusnodin)
+BGC0002051.2,family,51012.0,bp,6.0,nrps - nrps-like hybrid,BGC0002051.2 (antipain)
+BGC0002081.3,family,72537.0,bp,2.0,pks-like - t2pks hybrid,BGC0002081.3 (streptoketide…)
+BGC0002095.3,family,107586.0,bp,2.0,lassopeptide - nrps hybrid,BGC0002095.3 (leupeptin Pr/leupeptin Ac)
+BGC0002109.3,family,180568.0,bp,2.0,arylpolyene - betalactone - butyrolactone - lassopeptide - melanin - nrps - nrps-like - t2pks - terpene-precursor hybrid,BGC0002109.3 (kitacinnamycin…)
+BGC0002115.3,family,11374.0,bp,8.0,ripp-like,BGC0002115.3 (streptamidine)
+BGC0002127.3,family,41071.0,bp,11.0,t3pks,"BGC0002127.3 (flaviolin/1,3,6,8-…)"
+BGC0002128.3,family,21128.0,bp,3.0,indole,BGC0002128.3 (5-dimethylallylindole-3-…)
+BGC0002174.2,family,33876.0,bp,20.0,napaa,BGC0002174.2 (ε-Poly-L-lysine)
+BGC0002305.2,family,29809.0,bp,3.0,ni-siderophore,BGC0002305.2 (legonoxamine…)
+BGC0002307.3,family,22600.0,bp,2.0,lassopeptide,BGC0002307.3 (humidimycin)
+BGC0002340.3,family,43288.0,bp,2.0,nrps,BGC0002340.3 (pyrroloformamide…)
+BGC0002354.4,family,24616.0,bp,2.0,deazapurine,BGC0002354.4 (huimycin)
+BGC0002365.2,family,63031.0,bp,2.0,nrps - ripp-like - t1pks - t3nrps-iterative hybrid,BGC0002365.2 (10-epi-HSAF/10-epi-3-deOH-…)
+BGC0002367.2,family,71289.0,bp,3.0,butyrolactone - nrps - nrps-like hybrid,BGC0002367.2 (rotihibin A)
+BGC0002376.2,family,111167.0,bp,2.0,t1pks - t3nrps-iterative - terpene hybrid,BGC0002376.2
+BGC0002439.3,family,20504.0,bp,3.0,phenazine,BGC0002439.3 (…)
+BGC0002466.3,family,57000.0,bp,4.0,nrp-metallophore - nrps hybrid,BGC0002466.3
+BGC0002506.3,family,111911.0,bp,1.0,pks-like - t1pks - t2pks hybrid,BGC0002506.3 (homopiloquinone/piloquinone)
+BGC0002517.3,family,126295.0,bp,3.0,t1pks - t3nrps-iterative hybrid,BGC0002517.3 (tripartilactam/niizalactam C)
+BGC0002568.2,family,13413.0,bp,2.0,aminopolycarboxylic-acid,BGC0002568.2 (Ethylenediaminesuccinic…)
+BGC0002672.2,family,79888.0,bp,2.0,ripp-like - t2pks hybrid,BGC0002672.2 (saccharothrixin…)
+BGC0002690.2,family,29767.0,bp,2.0,ni-siderophore,BGC0002690.2 (FW0622)
+BGC0002725.3,family,20711.0,bp,3.0,cdps,BGC0002725.3 (prunipeptin)
+BGC0002805.2,family,75260.0,bp,2.0,azoxy-crosslink - indole - t2pks hybrid,BGC0002805.2 (Azodyrecin A/Azodyrecin…)
+10-epi-HSAF/10-epi-3-deOH-HSAF/10-epi-maltophilin/10-epi-xanthobaccin C/10-epi-hydroxymaltophilin/10-epi-FI-2,molecule,37.0,heavy_atoms,,,10-epi-HSAF/10-epi-3-deOH-HSAF/10-epi-maltophilin/10-epi-xanthobaccin C/10-epi-hydroxymaltophilin/10-epi-FI-2
+"2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol",molecule,25.0,heavy_atoms,,,"2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+2-methylisoborneol,molecule,12.0,heavy_atoms,,,2-methylisoborneol
+"5-acetyl-5,10-dihydrophenazine-1-carboxylic acid/5-(2-hydroxyacetyl)-5,10-dihydrophenazine-1-carboxylic acid/endophenazine A1/endophenazine F/endophenazine G",molecule,23.0,heavy_atoms,,,"5-acetyl-5,10-dihydrophenazine-1-carboxylic acid/5-(2-hydroxyacetyl)-5,10-dihydrophenazine-1-carboxylic acid/endophenazine A1/endophenazine F/endophenazine G"
+5-dimethylallylindole-3-acetonitrile,molecule,17.0,heavy_atoms,,,5-dimethylallylindole-3-acetonitrile
+AmfS,molecule,,heavy_atoms,,,AmfS
+Azodyrecin A/Azodyrecin B/Azodyrecin C,molecule,24.0,heavy_atoms,,,Azodyrecin A/Azodyrecin B/Azodyrecin C
+Bisenarsan,molecule,19.0,heavy_atoms,,,Bisenarsan
+Ethylenediaminesuccinic acid hydroxyarginine,molecule,24.0,heavy_atoms,,,Ethylenediaminesuccinic acid hydroxyarginine
+FW0622,molecule,,heavy_atoms,,,FW0622
+JBIR-126,molecule,37.0,heavy_atoms,,,JBIR-126
+SAL-2242,molecule,,heavy_atoms,,,SAL-2242
+SF2768,molecule,24.0,heavy_atoms,,,SF2768
+SGR PTMs/SGR PTM Compound b/SGR PTM Compound c/SGR PTM Compound d,molecule,36.0,heavy_atoms,,,SGR PTMs/SGR PTM Compound b/SGR PTM Compound c/SGR PTM Compound d
+SapB,molecule,140.0,heavy_atoms,,,SapB
+abyssomicin M/abyssomicin N/abyssomicin O/abyssomicin P/abyssomicin Q/abyssomicin R/abyssomicin S/abyssomicin T/abyssomicin U/abyssomicin V/abyssomicin W/abyssomicin X,molecule,27.0,heavy_atoms,,,abyssomicin M/abyssomicin N/abyssomicin O/abyssomicin P/abyssomicin Q/abyssomicin R/abyssomicin S/abyssomicin T/abyssomicin U/abyssomicin V/abyssomicin W/abyssomicin X
+albaflavenone,molecule,16.0,heavy_atoms,,,albaflavenone
+albusnodin,molecule,,heavy_atoms,,,albusnodin
+"alnumycin A/alnumycin B/alnumycin C/alnumycin P/prealnumycin/thalnumycin A/thalnumycin B/K1115A/1,6-dihydro-8-propylanthraquinone",molecule,23.0,heavy_atoms,,,"alnumycin A/alnumycin B/alnumycin C/alnumycin P/prealnumycin/thalnumycin A/thalnumycin B/K1115A/1,6-dihydro-8-propylanthraquinone"
+antipain,molecule,12.0,heavy_atoms,,,antipain
+avermitilol,molecule,16.0,heavy_atoms,,,avermitilol
+benzastatin J/7-hydroxyl benzastatin B/7-hydroxyl O-demethylbenzastatin A/JBIR-67/7-hydroxyl benzastatin F/7-hydroxyl O-demethylbenzastatin D/O-demethylvirantmycin/7-hydroxyl benzastatin D/virantmycin/benzastatin K/methylbenzastatin K,molecule,,heavy_atoms,,,benzastatin J/7-hydroxyl benzastatin B/7-hydroxyl O-demethylbenzastatin A/JBIR-67/7-hydroxyl benzastatin F/7-hydroxyl O-demethylbenzastatin D/O-demethylvirantmycin/7-hydroxyl benzastatin D/virantmycin/benzastatin K/methylbenzastatin K
+candicidin,molecule,79.0,heavy_atoms,,,candicidin
+carotenoid,molecule,52.0,heavy_atoms,,,carotenoid
+coelibactin,molecule,7.0,heavy_atoms,,,coelibactin
+coelichelin,molecule,39.0,heavy_atoms,,,coelichelin
+combamide,molecule,,heavy_atoms,,,combamide
+concanamycin A,molecule,61.0,heavy_atoms,,,concanamycin A
+cycloheximide,molecule,20.0,heavy_atoms,,,cycloheximide
+desferrioxamin B,molecule,39.0,heavy_atoms,,,desferrioxamin B
+desferrioxamin B/desferrioxamine E,molecule,40.0,heavy_atoms,,,desferrioxamin B/desferrioxamine E
+detoxin S1,molecule,37.0,heavy_atoms,,,detoxin S1
+diastaphenazine/izumiphenazine C,molecule,29.0,heavy_atoms,,,diastaphenazine/izumiphenazine C
+echoside A/echoside B/echoside C/echoside D/echoside E,molecule,34.0,heavy_atoms,,,echoside A/echoside B/echoside C/echoside D/echoside E
+ectoine,molecule,10.0,heavy_atoms,,,ectoine
+feglymycin,molecule,138.0,heavy_atoms,,,feglymycin
+"flaviolin/1,3,6,8-tetrahydroxynaphthalene",molecule,15.0,heavy_atoms,,,"flaviolin/1,3,6,8-tetrahydroxynaphthalene"
+fluostatin M/fluostatin N/fluostatin O/fluostatin P/fluostatin Q,molecule,25.0,heavy_atoms,,,fluostatin M/fluostatin N/fluostatin O/fluostatin P/fluostatin Q
+friulimicin A/friulimicin B/friulimicin C/friulimicin D,molecule,91.0,heavy_atoms,,,friulimicin A/friulimicin B/friulimicin C/friulimicin D
+geosmin,molecule,13.0,heavy_atoms,,,geosmin
+germicidin,molecule,14.0,heavy_atoms,,,germicidin
+griseobactin,molecule,11.0,heavy_atoms,,,griseobactin
+grixazone A,molecule,28.0,heavy_atoms,,,grixazone A
+homopiloquinone/piloquinone,molecule,26.0,heavy_atoms,,,homopiloquinone/piloquinone
+hopene,molecule,33.0,heavy_atoms,,,hopene
+huimycin,molecule,28.0,heavy_atoms,,,huimycin
+humidimycin,molecule,151.0,heavy_atoms,,,humidimycin
+informatipeptin,molecule,,heavy_atoms,,,informatipeptin
+isorenieratene,molecule,40.0,heavy_atoms,,,isorenieratene
+keywimysin,molecule,,heavy_atoms,,,keywimysin
+kitacinnamycin A/kitacinnamycin B/kitacinnamycin C/kitacinnamycin D/kitacinnamycin E/kitacinnamycin F,molecule,9.0,heavy_atoms,,,kitacinnamycin A/kitacinnamycin B/kitacinnamycin C/kitacinnamycin D/kitacinnamycin E/kitacinnamycin F
+lagmysin,molecule,107.0,heavy_atoms,,,lagmysin
+legonaridin,molecule,,heavy_atoms,,,legonaridin
+legonoxamine A/desferrioxamine B/legonoxamine B,molecule,39.0,heavy_atoms,,,legonoxamine A/desferrioxamine B/legonoxamine B
+leupeptin Pr/leupeptin Ac,molecule,30.0,heavy_atoms,,,leupeptin Pr/leupeptin Ac
+mediomycin A,molecule,82.0,heavy_atoms,,,mediomycin A
+melanin,molecule,24.0,heavy_atoms,,,melanin
+merochlorin A/merochlorin B/deschloro-merochlorin A/deschloro-merochlorin B/isochloro-merochlorin B/dichloro-merochlorin B/merochlorin D/merochlorin C,molecule,30.0,heavy_atoms,,,merochlorin A/merochlorin B/deschloro-merochlorin A/deschloro-merochlorin B/isochloro-merochlorin B/dichloro-merochlorin B/merochlorin D/merochlorin C
+mirubactin,molecule,12.0,heavy_atoms,,,mirubactin
+naringenin,molecule,20.0,heavy_atoms,,,naringenin
+paenibactin,molecule,7.0,heavy_atoms,,,paenibactin
+prunipeptin,molecule,122.0,heavy_atoms,,,prunipeptin
+pyrroloformamide A/pyrroloformamide B/pyrroloformamide D/pyrroloformamide C,molecule,14.0,heavy_atoms,,,pyrroloformamide A/pyrroloformamide B/pyrroloformamide D/pyrroloformamide C
+radamycin/globimycin,molecule,77.0,heavy_atoms,,,radamycin/globimycin
+rhizomide A/rhizomide B/rhizomide C,molecule,7.0,heavy_atoms,,,rhizomide A/rhizomide B/rhizomide C
+rotihibin A,molecule,9.0,heavy_atoms,,,rotihibin A
+saccharothrixin D/saccharothrixin E/saccharothrixin F/saccharothrixin G/saccharothrixin H/saccharothrixin I/saccharothrixin J/saccharothrixin K/saccharothrixin L/saccharothrixin M,molecule,,heavy_atoms,,,saccharothrixin D/saccharothrixin E/saccharothrixin F/saccharothrixin G/saccharothrixin H/saccharothrixin I/saccharothrixin J/saccharothrixin K/saccharothrixin L/saccharothrixin M
+scabichelin,molecule,45.0,heavy_atoms,,,scabichelin
+sceliphrolactam,molecule,35.0,heavy_atoms,,,sceliphrolactam
+spore pigment,molecule,,heavy_atoms,,,spore pigment
+streptamidine,molecule,46.0,heavy_atoms,,,streptamidine
+streptoketide A/streptoketide B/streptoketide C/S2502/S2507/UWM5,molecule,27.0,heavy_atoms,,,streptoketide A/streptoketide B/streptoketide C/S2502/S2507/UWM5
+surugamide A/surugamide D,molecule,64.0,heavy_atoms,,,surugamide A/surugamide D
+tripartilactam/niizalactam C,molecule,35.0,heavy_atoms,,,tripartilactam/niizalactam C
+venezuelin,molecule,,heavy_atoms,,,venezuelin
+α-lipomycin,molecule,42.0,heavy_atoms,,,α-lipomycin
+γ-butyrolactone,molecule,6.0,heavy_atoms,,,γ-butyrolactone
+ε-Poly-L-lysine,molecule,,heavy_atoms,,,ε-Poly-L-lysine

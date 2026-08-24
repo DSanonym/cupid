@@ -1,0 +1,7216 @@
+{
+ "directed": false,
+ "multigraph": false,
+ "graph": {
+  "kind": "masked",
+  "genus": "Streptomyces",
+  "derived_from": "ground_truth_metabologenomics_graph.json",
+  "silent_rate": 0.3,
+  "mask_seed": 0,
+  "n_observations_before_silencing": 650,
+  "note": "family->molecule edges removed; microbe->molecule observed instead"
+ },
+ "nodes": [
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown CB02460 [GCF_001905705.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown CS227 [GCF_002188355.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown GQFP [GCF_021545335.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown MP131-18 [GCF_001984575.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_01217 [GCF_035994185.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_01317 [GCF_035961655.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_01358 [GCF_036237215.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NL15-2K [GCF_030551255.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown SM8 [GCF_000299175.2]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces Unknown VNUA24 [GCF_029167005.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces katrae S3 [GCF_002028425.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]"
+  },
+  {
+   "ntype": "microbe",
+   "id": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000001.5",
+   "size_bp": 97709,
+   "n_regions": 1,
+   "bgc_class": "nrp-metallophore - nrps - t1pks hybrid",
+   "id": "BGC0000001.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000034.5 (candicidin)",
+   "size_bp": 244508,
+   "n_regions": 2,
+   "bgc_class": "lanthipeptide-class-ii - lanthipeptide-class-iii - nrps - nrps-like - t1pks - terpene-precursor hybrid",
+   "id": "BGC0000034.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000040.5 (concanamycin A)",
+   "size_bp": 124550,
+   "n_regions": 1,
+   "bgc_class": "azole-containing-ripp - nrps-like - t1pks hybrid",
+   "id": "BGC0000040.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000065.5",
+   "size_bp": 41041,
+   "n_regions": 2,
+   "bgc_class": "pks-like",
+   "id": "BGC0000065.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000140.5",
+   "size_bp": 71262,
+   "n_regions": 4,
+   "bgc_class": "azole-containing-ripp - butyrolactone - pks-like - t1pks - t3nrps-iterative hybrid",
+   "id": "BGC0000140.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000175.5 (cycloheximide)",
+   "size_bp": 71846,
+   "n_regions": 2,
+   "bgc_class": "lanthipeptide-class-iv - nrps-like - transat-pks hybrid",
+   "id": "BGC0000175.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000195.5 (alnumycin A/alnumycin\u2026)",
+   "size_bp": 72612,
+   "n_regions": 2,
+   "bgc_class": "t2pks",
+   "id": "BGC0000195.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000249.5",
+   "size_bp": 48670,
+   "n_regions": 3,
+   "bgc_class": "nrps",
+   "id": "BGC0000249.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000262.5",
+   "size_bp": 72483,
+   "n_regions": 3,
+   "bgc_class": "butyrolactone - t2pks hybrid",
+   "id": "BGC0000262.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000271.5 (spore pigment)",
+   "size_bp": 72516,
+   "n_regions": 33,
+   "bgc_class": "t2pks",
+   "id": "BGC0000271.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000282.3 (2-methoxy-5-methyl-6-(13-\u2026)",
+   "size_bp": 41065,
+   "n_regions": 20,
+   "bgc_class": "t3pks",
+   "id": "BGC0000282.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000324.5 (coelibactin)",
+   "size_bp": 65456,
+   "n_regions": 7,
+   "bgc_class": "nrp-metallophore - nrps hybrid",
+   "id": "BGC0000324.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000325.5 (coelichelin)",
+   "size_bp": 58512,
+   "n_regions": 24,
+   "bgc_class": "nrp-metallophore - nrps hybrid",
+   "id": "BGC0000325.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000340.5 (echoside A/echoside\u2026)",
+   "size_bp": 21164,
+   "n_regions": 3,
+   "bgc_class": "terpene-precursor",
+   "id": "BGC0000340.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000354.5 (friulimicin A/friulimicin\u2026)",
+   "size_bp": 134109,
+   "n_regions": 4,
+   "bgc_class": "azole-containing-ripp - lassopeptide - ni-siderophore - nrps - nrps-like hybrid",
+   "id": "BGC0000354.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000368.5 (griseobactin)",
+   "size_bp": 54987,
+   "n_regions": 6,
+   "bgc_class": "nrp-metallophore - nrps hybrid",
+   "id": "BGC0000368.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000382.5",
+   "size_bp": 43261,
+   "n_regions": 2,
+   "bgc_class": "nrps-like",
+   "id": "BGC0000382.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000392.5 (mirubactin)",
+   "size_bp": 49993,
+   "n_regions": 5,
+   "bgc_class": "nrps",
+   "id": "BGC0000392.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000401.5 (paenibactin)",
+   "size_bp": 48516,
+   "n_regions": 4,
+   "bgc_class": "nrp-metallophore - nrps hybrid",
+   "id": "BGC0000401.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000423.5 (scabichelin)",
+   "size_bp": 67493,
+   "n_regions": 8,
+   "bgc_class": "nrp-metallophore - nrps hybrid",
+   "id": "BGC0000423.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000496.5 (AmfS)",
+   "size_bp": 22643,
+   "n_regions": 6,
+   "bgc_class": "lanthipeptide-class-iii",
+   "id": "BGC0000496.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000518.3 (informatipeptin)",
+   "size_bp": 22718,
+   "n_regions": 22,
+   "bgc_class": "ripp-like",
+   "id": "BGC0000518.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000546.3 (SAL-2242)",
+   "size_bp": 22614,
+   "n_regions": 4,
+   "bgc_class": "lanthipeptide-class-iii",
+   "id": "BGC0000546.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000551.5 (SapB)",
+   "size_bp": 36186,
+   "n_regions": 5,
+   "bgc_class": "lanthipeptide-class-iii",
+   "id": "BGC0000551.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000563.4 (venezuelin)",
+   "size_bp": 22716,
+   "n_regions": 4,
+   "bgc_class": "lanthipeptide-class-iv",
+   "id": "BGC0000563.4"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000606.5",
+   "size_bp": 29567,
+   "n_regions": 4,
+   "bgc_class": "azole-containing-ripp",
+   "id": "BGC0000606.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000633.3 (carotenoid)",
+   "size_bp": 25920,
+   "n_regions": 2,
+   "bgc_class": "terpene",
+   "id": "BGC0000633.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000658.3 (2-methylisoborneol)",
+   "size_bp": 21350,
+   "n_regions": 14,
+   "bgc_class": "terpene",
+   "id": "BGC0000658.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000660.5 (albaflavenone)",
+   "size_bp": 21086,
+   "n_regions": 26,
+   "bgc_class": "terpene",
+   "id": "BGC0000660.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000662.5 (grixazone A)",
+   "size_bp": 10396,
+   "n_regions": 2,
+   "bgc_class": "melanin",
+   "id": "BGC0000662.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000663.5 (hopene)",
+   "size_bp": 26665,
+   "n_regions": 57,
+   "bgc_class": "terpene",
+   "id": "BGC0000663.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000664.5 +2 (isorenieratene)",
+   "size_bp": 28346,
+   "n_regions": 27,
+   "bgc_class": "terpene",
+   "id": "BGC0000664.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000678.5",
+   "size_bp": 21152,
+   "n_regions": 5,
+   "bgc_class": "terpene-precursor",
+   "id": "BGC0000678.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000683.3 (avermitilol)",
+   "size_bp": 25142,
+   "n_regions": 4,
+   "bgc_class": "terpene",
+   "id": "BGC0000683.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000842.5",
+   "size_bp": 140310,
+   "n_regions": 2,
+   "bgc_class": "blactam - nrps - t1pks - t3nrps-iterative hybrid",
+   "id": "BGC0000842.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000850.5 (\u03b3-butyrolactone)",
+   "size_bp": 22157,
+   "n_regions": 3,
+   "bgc_class": "butyrolactone - terpene hybrid",
+   "id": "BGC0000850.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000853.3 +1 (ectoine)",
+   "size_bp": 10399,
+   "n_regions": 51,
+   "bgc_class": "ectoine",
+   "id": "BGC0000853.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000908.3 +4 (melanin)",
+   "size_bp": 10567,
+   "n_regions": 31,
+   "bgc_class": "melanin",
+   "id": "BGC0000908.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000934.4 (5-acetyl-5,10-\u2026)",
+   "size_bp": 47549,
+   "n_regions": 3,
+   "bgc_class": "other - phenazine - t3pks hybrid",
+   "id": "BGC0000934.4"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000940.5 (desferrioxamin\u2026)",
+   "size_bp": 29782,
+   "n_regions": 35,
+   "bgc_class": "ni-siderophore",
+   "id": "BGC0000940.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0000941.3 (desferrioxamin B)",
+   "size_bp": 29784,
+   "n_regions": 12,
+   "bgc_class": "ni-siderophore",
+   "id": "BGC0000941.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001003.5 (\u03b1-lipomycin)",
+   "size_bp": 128312,
+   "n_regions": 2,
+   "bgc_class": "napaa - nrps - nrps-like - t1pks hybrid",
+   "id": "BGC0001003.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001036.5",
+   "bgc_class": "azoxy-crosslink - butyrolactone - melanin - nrps - nrps-like - t1pks - t2pks hybrid",
+   "id": "BGC0001036.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001043.4 (SGR PTMs/SGR PTM Compound\u2026)",
+   "size_bp": 49411,
+   "n_regions": 4,
+   "bgc_class": "nrps - t1pks hybrid",
+   "id": "BGC0001043.4"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001083.5 (merochlorin A/merochlorin\u2026)",
+   "size_bp": 78603,
+   "n_regions": 1,
+   "bgc_class": "furan - other - t3pks hybrid",
+   "id": "BGC0001083.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001181.4 (geosmin)",
+   "size_bp": 22202,
+   "n_regions": 34,
+   "bgc_class": "terpene",
+   "id": "BGC0001181.4"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001188.3 (legonaridin)",
+   "size_bp": 20866,
+   "n_regions": 2,
+   "bgc_class": "linaridin",
+   "id": "BGC0001188.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001233.5 (feglymycin)",
+   "size_bp": 76380,
+   "n_regions": 2,
+   "bgc_class": "nrps - t3pks hybrid",
+   "id": "BGC0001233.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001283.3 (Bisenarsan)",
+   "size_bp": 48184,
+   "n_regions": 2,
+   "bgc_class": "pks-like - t1pks hybrid",
+   "id": "BGC0001283.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001310.5 (naringenin)",
+   "size_bp": 41086,
+   "n_regions": 8,
+   "bgc_class": "t3pks",
+   "id": "BGC0001310.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001368.5 (JBIR-126)",
+   "size_bp": 69268,
+   "n_regions": 4,
+   "bgc_class": "nrps - nrps-like hybrid",
+   "id": "BGC0001368.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001454.5 (germicidin)",
+   "size_bp": 41185,
+   "n_regions": 3,
+   "bgc_class": "t3pks",
+   "id": "BGC0001454.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001492.5 (abyssomicin M/abyssomicin\u2026)",
+   "size_bp": 72536,
+   "n_regions": 2,
+   "bgc_class": "t1pks",
+   "id": "BGC0001492.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001519.5",
+   "size_bp": 155770,
+   "n_regions": 1,
+   "bgc_class": "butyrolactone - nrps - t1pks - thioamitides hybrid",
+   "id": "BGC0001519.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001522.5",
+   "size_bp": 44029,
+   "n_regions": 3,
+   "bgc_class": "nrps-like",
+   "id": "BGC0001522.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001529.5 (benzastatin J/7-hydroxyl\u2026)",
+   "size_bp": 45242,
+   "n_regions": 2,
+   "bgc_class": "nrps - terpene-precursor hybrid",
+   "id": "BGC0001529.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001556.5 (combamide)",
+   "size_bp": 60886,
+   "n_regions": 2,
+   "bgc_class": "nrps - t1pks - terpene hybrid",
+   "id": "BGC0001556.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001574.5 (SF2768)",
+   "size_bp": 44395,
+   "n_regions": 3,
+   "bgc_class": "nrps",
+   "id": "BGC0001574.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001596.3 (fluostatin M/fluostatin\u2026)",
+   "size_bp": 91202,
+   "n_regions": 2,
+   "bgc_class": "t2pks",
+   "id": "BGC0001596.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001634.3 (keywimysin)",
+   "size_bp": 22698,
+   "n_regions": 3,
+   "bgc_class": "lassopeptide",
+   "id": "BGC0001634.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001645.3 (lagmysin)",
+   "size_bp": 33586,
+   "n_regions": 2,
+   "bgc_class": "lanthipeptide-class-v - lassopeptide hybrid",
+   "id": "BGC0001645.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001662.4 (mediomycin A)",
+   "size_bp": 167316,
+   "n_regions": 1,
+   "bgc_class": "t1pks",
+   "id": "BGC0001662.4"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001753.3 (radamycin/globimycin)",
+   "size_bp": 34001,
+   "n_regions": 2,
+   "bgc_class": "azole-containing-ripp",
+   "id": "BGC0001753.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001758.4 (rhizomide A/rhizomide\u2026)",
+   "bgc_class": "nrps",
+   "id": "BGC0001758.4"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001760.5",
+   "size_bp": 53316,
+   "n_regions": 1,
+   "bgc_class": "nrps",
+   "id": "BGC0001760.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001770.4 (sceliphrolactam)",
+   "size_bp": 101300,
+   "n_regions": 1,
+   "bgc_class": "t1pks - t3nrps-iterative hybrid",
+   "id": "BGC0001770.4"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001778.5",
+   "size_bp": 10375,
+   "n_regions": 3,
+   "bgc_class": "ectoine",
+   "id": "BGC0001778.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001792.5 (surugamide A/surugamide D)",
+   "size_bp": 108626,
+   "n_regions": 3,
+   "bgc_class": "azole-containing-ripp - nrps hybrid",
+   "id": "BGC0001792.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001808.5",
+   "size_bp": 53172,
+   "n_regions": 2,
+   "bgc_class": "deazapurine - nrps hybrid",
+   "id": "BGC0001808.5"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001818.4",
+   "size_bp": 72732,
+   "n_regions": 2,
+   "bgc_class": "nrps - t1pks hybrid",
+   "id": "BGC0001818.4"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0001840.2 (detoxin S1)",
+   "size_bp": 53463,
+   "n_regions": 5,
+   "bgc_class": "nrps",
+   "id": "BGC0001840.2"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002006.2 (albusnodin)",
+   "size_bp": 22461,
+   "n_regions": 4,
+   "bgc_class": "lassopeptide",
+   "id": "BGC0002006.2"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002051.2 (antipain)",
+   "size_bp": 51012,
+   "n_regions": 6,
+   "bgc_class": "nrps - nrps-like hybrid",
+   "id": "BGC0002051.2"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002081.3 (streptoketide\u2026)",
+   "size_bp": 72537,
+   "n_regions": 2,
+   "bgc_class": "pks-like - t2pks hybrid",
+   "id": "BGC0002081.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002095.3 (leupeptin Pr/leupeptin Ac)",
+   "size_bp": 107586,
+   "n_regions": 2,
+   "bgc_class": "lassopeptide - nrps hybrid",
+   "id": "BGC0002095.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002109.3 (kitacinnamycin\u2026)",
+   "size_bp": 180568,
+   "n_regions": 2,
+   "bgc_class": "arylpolyene - betalactone - butyrolactone - lassopeptide - melanin - nrps - nrps-like - t2pks - terpene-precursor hybrid",
+   "id": "BGC0002109.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002115.3 (streptamidine)",
+   "size_bp": 11374,
+   "n_regions": 8,
+   "bgc_class": "ripp-like",
+   "id": "BGC0002115.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002127.3 (flaviolin/1,3,6,8-\u2026)",
+   "size_bp": 41071,
+   "n_regions": 11,
+   "bgc_class": "t3pks",
+   "id": "BGC0002127.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002128.3 (5-dimethylallylindole-3-\u2026)",
+   "size_bp": 21128,
+   "n_regions": 3,
+   "bgc_class": "indole",
+   "id": "BGC0002128.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002174.2 (\u03b5-Poly-L-lysine)",
+   "size_bp": 33876,
+   "n_regions": 20,
+   "bgc_class": "napaa",
+   "id": "BGC0002174.2"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002305.2 (legonoxamine\u2026)",
+   "size_bp": 29809,
+   "n_regions": 3,
+   "bgc_class": "ni-siderophore",
+   "id": "BGC0002305.2"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002307.3 (humidimycin)",
+   "size_bp": 22600,
+   "n_regions": 2,
+   "bgc_class": "lassopeptide",
+   "id": "BGC0002307.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002340.3 (pyrroloformamide\u2026)",
+   "size_bp": 43288,
+   "n_regions": 2,
+   "bgc_class": "nrps",
+   "id": "BGC0002340.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002354.4 (huimycin)",
+   "size_bp": 24616,
+   "n_regions": 2,
+   "bgc_class": "deazapurine",
+   "id": "BGC0002354.4"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002365.2 (10-epi-HSAF/10-epi-3-deOH-\u2026)",
+   "size_bp": 63031,
+   "n_regions": 2,
+   "bgc_class": "nrps - ripp-like - t1pks - t3nrps-iterative hybrid",
+   "id": "BGC0002365.2"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002367.2 (rotihibin A)",
+   "size_bp": 71289,
+   "n_regions": 3,
+   "bgc_class": "butyrolactone - nrps - nrps-like hybrid",
+   "id": "BGC0002367.2"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002376.2",
+   "size_bp": 111167,
+   "n_regions": 2,
+   "bgc_class": "t1pks - t3nrps-iterative - terpene hybrid",
+   "id": "BGC0002376.2"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002439.3 (\u2026)",
+   "size_bp": 20504,
+   "n_regions": 3,
+   "bgc_class": "phenazine",
+   "id": "BGC0002439.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002466.3",
+   "size_bp": 57000,
+   "n_regions": 4,
+   "bgc_class": "nrp-metallophore - nrps hybrid",
+   "id": "BGC0002466.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002506.3 (homopiloquinone/piloquinone)",
+   "size_bp": 111911,
+   "n_regions": 1,
+   "bgc_class": "pks-like - t1pks - t2pks hybrid",
+   "id": "BGC0002506.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002517.3 (tripartilactam/niizalactam C)",
+   "size_bp": 126295,
+   "n_regions": 3,
+   "bgc_class": "t1pks - t3nrps-iterative hybrid",
+   "id": "BGC0002517.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002568.2 (Ethylenediaminesuccinic\u2026)",
+   "size_bp": 13413,
+   "n_regions": 2,
+   "bgc_class": "aminopolycarboxylic-acid",
+   "id": "BGC0002568.2"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002672.2 (saccharothrixin\u2026)",
+   "size_bp": 79888,
+   "n_regions": 2,
+   "bgc_class": "ripp-like - t2pks hybrid",
+   "id": "BGC0002672.2"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002690.2 (FW0622)",
+   "size_bp": 29767,
+   "n_regions": 2,
+   "bgc_class": "ni-siderophore",
+   "id": "BGC0002690.2"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002725.3 (prunipeptin)",
+   "size_bp": 20711,
+   "n_regions": 3,
+   "bgc_class": "cdps",
+   "id": "BGC0002725.3"
+  },
+  {
+   "ntype": "family",
+   "label": "BGC0002805.2 (Azodyrecin A/Azodyrecin\u2026)",
+   "size_bp": 75260,
+   "n_regions": 2,
+   "bgc_class": "azoxy-crosslink - indole - t2pks hybrid",
+   "id": "BGC0002805.2"
+  },
+  {
+   "ntype": "molecule",
+   "id": "10-epi-HSAF/10-epi-3-deOH-HSAF/10-epi-maltophilin/10-epi-xanthobaccin C/10-epi-hydroxymaltophilin/10-epi-FI-2"
+  },
+  {
+   "ntype": "molecule",
+   "id": "2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+  },
+  {
+   "ntype": "molecule",
+   "id": "2-methylisoborneol"
+  },
+  {
+   "ntype": "molecule",
+   "id": "5-acetyl-5,10-dihydrophenazine-1-carboxylic acid/5-(2-hydroxyacetyl)-5,10-dihydrophenazine-1-carboxylic acid/endophenazine A1/endophenazine F/endophenazine G"
+  },
+  {
+   "ntype": "molecule",
+   "id": "5-dimethylallylindole-3-acetonitrile"
+  },
+  {
+   "ntype": "molecule",
+   "id": "AmfS"
+  },
+  {
+   "ntype": "molecule",
+   "id": "Azodyrecin A/Azodyrecin B/Azodyrecin C"
+  },
+  {
+   "ntype": "molecule",
+   "id": "Bisenarsan"
+  },
+  {
+   "ntype": "molecule",
+   "id": "Ethylenediaminesuccinic acid hydroxyarginine"
+  },
+  {
+   "ntype": "molecule",
+   "id": "FW0622"
+  },
+  {
+   "ntype": "molecule",
+   "id": "JBIR-126"
+  },
+  {
+   "ntype": "molecule",
+   "id": "SAL-2242"
+  },
+  {
+   "ntype": "molecule",
+   "id": "SF2768"
+  },
+  {
+   "ntype": "molecule",
+   "id": "SGR PTMs/SGR PTM Compound b/SGR PTM Compound c/SGR PTM Compound d"
+  },
+  {
+   "ntype": "molecule",
+   "id": "SapB"
+  },
+  {
+   "ntype": "molecule",
+   "id": "abyssomicin M/abyssomicin N/abyssomicin O/abyssomicin P/abyssomicin Q/abyssomicin R/abyssomicin S/abyssomicin T/abyssomicin U/abyssomicin V/abyssomicin W/abyssomicin X"
+  },
+  {
+   "ntype": "molecule",
+   "id": "albaflavenone"
+  },
+  {
+   "ntype": "molecule",
+   "id": "albusnodin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "alnumycin A/alnumycin B/alnumycin C/alnumycin P/prealnumycin/thalnumycin A/thalnumycin B/K1115A/1,6-dihydro-8-propylanthraquinone"
+  },
+  {
+   "ntype": "molecule",
+   "id": "antipain"
+  },
+  {
+   "ntype": "molecule",
+   "id": "avermitilol"
+  },
+  {
+   "ntype": "molecule",
+   "id": "benzastatin J/7-hydroxyl benzastatin B/7-hydroxyl O-demethylbenzastatin A/JBIR-67/7-hydroxyl benzastatin F/7-hydroxyl O-demethylbenzastatin D/O-demethylvirantmycin/7-hydroxyl benzastatin D/virantmycin/benzastatin K/methylbenzastatin K"
+  },
+  {
+   "ntype": "molecule",
+   "id": "candicidin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "carotenoid"
+  },
+  {
+   "ntype": "molecule",
+   "id": "coelibactin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "coelichelin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "combamide"
+  },
+  {
+   "ntype": "molecule",
+   "id": "concanamycin A"
+  },
+  {
+   "ntype": "molecule",
+   "id": "cycloheximide"
+  },
+  {
+   "ntype": "molecule",
+   "id": "desferrioxamin B"
+  },
+  {
+   "ntype": "molecule",
+   "id": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "ntype": "molecule",
+   "id": "detoxin S1"
+  },
+  {
+   "ntype": "molecule",
+   "id": "diastaphenazine/izumiphenazine C"
+  },
+  {
+   "ntype": "molecule",
+   "id": "echoside A/echoside B/echoside C/echoside D/echoside E"
+  },
+  {
+   "ntype": "molecule",
+   "id": "ectoine"
+  },
+  {
+   "ntype": "molecule",
+   "id": "feglymycin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "flaviolin/1,3,6,8-tetrahydroxynaphthalene"
+  },
+  {
+   "ntype": "molecule",
+   "id": "fluostatin M/fluostatin N/fluostatin O/fluostatin P/fluostatin Q"
+  },
+  {
+   "ntype": "molecule",
+   "id": "friulimicin A/friulimicin B/friulimicin C/friulimicin D"
+  },
+  {
+   "ntype": "molecule",
+   "id": "geosmin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "germicidin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "griseobactin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "grixazone A"
+  },
+  {
+   "ntype": "molecule",
+   "id": "homopiloquinone/piloquinone"
+  },
+  {
+   "ntype": "molecule",
+   "id": "hopene"
+  },
+  {
+   "ntype": "molecule",
+   "id": "huimycin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "humidimycin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "informatipeptin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "isorenieratene"
+  },
+  {
+   "ntype": "molecule",
+   "id": "keywimysin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "kitacinnamycin A/kitacinnamycin B/kitacinnamycin C/kitacinnamycin D/kitacinnamycin E/kitacinnamycin F"
+  },
+  {
+   "ntype": "molecule",
+   "id": "lagmysin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "legonaridin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "legonoxamine A/desferrioxamine B/legonoxamine B"
+  },
+  {
+   "ntype": "molecule",
+   "id": "leupeptin Pr/leupeptin Ac"
+  },
+  {
+   "ntype": "molecule",
+   "id": "mediomycin A"
+  },
+  {
+   "ntype": "molecule",
+   "id": "melanin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "merochlorin A/merochlorin B/deschloro-merochlorin A/deschloro-merochlorin B/isochloro-merochlorin B/dichloro-merochlorin B/merochlorin D/merochlorin C"
+  },
+  {
+   "ntype": "molecule",
+   "id": "mirubactin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "naringenin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "paenibactin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "prunipeptin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "pyrroloformamide A/pyrroloformamide B/pyrroloformamide D/pyrroloformamide C"
+  },
+  {
+   "ntype": "molecule",
+   "id": "radamycin/globimycin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "rhizomide A/rhizomide B/rhizomide C"
+  },
+  {
+   "ntype": "molecule",
+   "id": "rotihibin A"
+  },
+  {
+   "ntype": "molecule",
+   "id": "saccharothrixin D/saccharothrixin E/saccharothrixin F/saccharothrixin G/saccharothrixin H/saccharothrixin I/saccharothrixin J/saccharothrixin K/saccharothrixin L/saccharothrixin M"
+  },
+  {
+   "ntype": "molecule",
+   "id": "scabichelin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "sceliphrolactam"
+  },
+  {
+   "ntype": "molecule",
+   "id": "spore pigment"
+  },
+  {
+   "ntype": "molecule",
+   "id": "streptamidine"
+  },
+  {
+   "ntype": "molecule",
+   "id": "streptoketide A/streptoketide B/streptoketide C/S2502/S2507/UWM5"
+  },
+  {
+   "ntype": "molecule",
+   "id": "surugamide A/surugamide D"
+  },
+  {
+   "ntype": "molecule",
+   "id": "tripartilactam/niizalactam C"
+  },
+  {
+   "ntype": "molecule",
+   "id": "venezuelin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "\u03b1-lipomycin"
+  },
+  {
+   "ntype": "molecule",
+   "id": "\u03b3-butyrolactone"
+  },
+  {
+   "ntype": "molecule",
+   "id": "\u03b5-Poly-L-lysine"
+  }
+ ],
+ "links": [
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CB02460 [GCF_001905705.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CB02460 [GCF_001905705.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CB02460 [GCF_001905705.1]",
+   "target": "BGC0002006.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CB02460 [GCF_001905705.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CB02460 [GCF_001905705.1]",
+   "target": "BGC0000563.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CB02460 [GCF_001905705.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CB02460 [GCF_001905705.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CB02460 [GCF_001905705.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CB02460 [GCF_001905705.1]",
+   "target": "venezuelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CB02460 [GCF_001905705.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CB02460 [GCF_001905705.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CB02460 [GCF_001905705.1]",
+   "target": "albusnodin"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0000324.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0000546.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0001003.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0000340.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0000262.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0002439.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0001454.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "BGC0002128.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "SAL-2242"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "\u03b1-lipomycin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "germicidin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "flaviolin/1,3,6,8-tetrahydroxynaphthalene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "5-dimethylallylindole-3-acetonitrile"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CCM_MD2014 [GCF_000772045.1]",
+   "target": "diastaphenazine/izumiphenazine C"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "BGC0001043.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "BGC0000496.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "BGC0001792.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "BGC0000941.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "BGC0000034.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "candicidin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "AmfS"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "SGR PTMs/SGR PTM Compound b/SGR PTM Compound c/SGR PTM Compound d"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown CS227 [GCF_002188355.1]",
+   "target": "surugamide A/surugamide D"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "BGC0000850.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "BGC0002672.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "\u03b3-butyrolactone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown GQFP [GCF_021545335.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "BGC0002690.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "BGC0000354.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "BGC0000368.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-332 [GCF_040730185.1]",
+   "target": "FW0622"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "BGC0001083.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "BGC0000392.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "BGC0001818.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "BGC0000934.4"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "mirubactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "5-acetyl-5,10-dihydrophenazine-1-carboxylic acid/5-(2-hydroxyacetyl)-5,10-dihydrophenazine-1-carboxylic acid/endophenazine A1/endophenazine F/endophenazine G"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown Je 1-369 [GCF_026810505.1]",
+   "target": "merochlorin A/merochlorin B/deschloro-merochlorin A/deschloro-merochlorin B/isochloro-merochlorin B/dichloro-merochlorin B/merochlorin D/merochlorin C"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "BGC0000262.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "BGC0000324.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "BGC0001310.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "BGC0002354.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "BGC0002006.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "BGC0000662.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "BGC0000546.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "BGC0002305.2"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "coelibactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "SAL-2242"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown MP131-18 [GCF_001984575.1]",
+   "target": "legonoxamine A/desferrioxamine B/legonoxamine B"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "BGC0001645.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "BGC0002051.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "BGC0002109.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "lagmysin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "antipain"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00190 [GCF_036203305.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "BGC0001083.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "BGC0001760.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "BGC0000423.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00252 [GCF_036187565.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0001574.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0001808.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0000262.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0002805.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "BGC0000683.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "avermitilol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "flaviolin/1,3,6,8-tetrahydroxynaphthalene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00271 [GCF_036178845.1]",
+   "target": "Azodyrecin A/Azodyrecin B/Azodyrecin C"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "BGC0000423.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00286 [GCF_036173125.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "BGC0000401.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "BGC0001596.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "BGC0000546.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "BGC0001529.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "BGC0000934.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "paenibactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00322 [GCF_036147535.1]",
+   "target": "fluostatin M/fluostatin N/fluostatin O/fluostatin P/fluostatin Q"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "BGC0000401.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "paenibactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "2-methylisoborneol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00356 [GCF_036103115.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0001778.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0000195.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0001233.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0002466.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0002367.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "BGC0001083.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "alnumycin A/alnumycin B/alnumycin C/alnumycin P/prealnumycin/thalnumycin A/thalnumycin B/K1115A/1,6-dihydro-8-propylanthraquinone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "2-methylisoborneol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "merochlorin A/merochlorin B/deschloro-merochlorin A/deschloro-merochlorin B/isochloro-merochlorin B/dichloro-merochlorin B/merochlorin D/merochlorin C"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "feglymycin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "flaviolin/1,3,6,8-tetrahydroxynaphthalene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00663 [GCF_036226885.1]",
+   "target": "rotihibin A"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0000324.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0000423.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0000683.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0000401.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0002307.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0000496.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "coelibactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "AmfS"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "avermitilol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00670 [GCF_036226765.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]",
+   "target": "BGC0001310.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_00841 [GCF_035917315.1]",
+   "target": "naringenin"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01217 [GCF_035994185.1]",
+   "target": "BGC0002517.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01217 [GCF_035994185.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01217 [GCF_035994185.1]",
+   "target": "BGC0000941.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01217 [GCF_035994185.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01217 [GCF_035994185.1]",
+   "target": "BGC0000423.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01217 [GCF_035994185.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01217 [GCF_035994185.1]",
+   "target": "scabichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01217 [GCF_035994185.1]",
+   "target": "desferrioxamin B"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01217 [GCF_035994185.1]",
+   "target": "tripartilactam/niizalactam C"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]",
+   "target": "BGC0000354.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]",
+   "target": "BGC0002376.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]",
+   "target": "BGC0000140.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]",
+   "target": "BGC0000392.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]",
+   "target": "friulimicin A/friulimicin B/friulimicin C/friulimicin D"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01257 [GCF_035917255.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "BGC0001310.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "2-methylisoborneol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01280 [GCF_036237375.1]",
+   "target": "naringenin"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01317 [GCF_035961655.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01317 [GCF_035961655.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01317 [GCF_035961655.1]",
+   "target": "BGC0001556.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01317 [GCF_035961655.1]",
+   "target": "BGC0000423.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01317 [GCF_035961655.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01317 [GCF_035961655.1]",
+   "target": "BGC0000065.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01317 [GCF_035961655.1]",
+   "target": "scabichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01317 [GCF_035961655.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01317 [GCF_035961655.1]",
+   "target": "combamide"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0000262.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0002805.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "BGC0001233.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "feglymycin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "flaviolin/1,3,6,8-tetrahydroxynaphthalene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01340 [GCF_035949105.1]",
+   "target": "Azodyrecin A/Azodyrecin B/Azodyrecin C"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01358 [GCF_036237215.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01358 [GCF_036237215.1]",
+   "target": "BGC0002376.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01358 [GCF_036237215.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01358 [GCF_036237215.1]",
+   "target": "BGC0000001.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01358 [GCF_036237215.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01358 [GCF_036237215.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01358 [GCF_036237215.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01358 [GCF_036237215.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01358 [GCF_036237215.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "BGC0001003.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "BGC0002006.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "BGC0000392.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "BGC0000175.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "cycloheximide"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "mirubactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "\u03b1-lipomycin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NBC_01435 [GCF_036228565.1]",
+   "target": "albusnodin"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0002109.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0000850.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0000934.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0001792.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0001662.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "5-acetyl-5,10-dihydrophenazine-1-carboxylic acid/5-(2-hydroxyacetyl)-5,10-dihydrophenazine-1-carboxylic acid/endophenazine A1/endophenazine F/endophenazine G"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "surugamide A/surugamide D"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "kitacinnamycin A/kitacinnamycin B/kitacinnamycin C/kitacinnamycin D/kitacinnamycin E/kitacinnamycin F"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NL15-2K [GCF_030551255.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "BGC0002568.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "BGC0001645.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "flaviolin/1,3,6,8-tetrahydroxynaphthalene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000877 [GCF_040299365.1]",
+   "target": "Ethylenediaminesuccinic acid hydroxyarginine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "BGC0000842.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "BGC0001840.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "BGC0002081.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "BGC0002517.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "detoxin S1"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC000971 [GCF_040299185.1]",
+   "target": "tripartilactam/niizalactam C"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "BGC0000678.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "BGC0002725.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "BGC0002439.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC001792 [GCF_040297385.1]",
+   "target": "prunipeptin"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "BGC0000941.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "BGC0000563.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "BGC0001758.4"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "venezuelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "2-methylisoborneol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "desferrioxamin B"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC004284 [GCF_042874035.1]",
+   "target": "rhizomide A/rhizomide B/rhizomide C"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "BGC0000678.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "BGC0001454.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "BGC0001758.4"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "germicidin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005706 [GCF_040631045.1]",
+   "target": "rhizomide A/rhizomide B/rhizomide C"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "BGC0000392.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "BGC0001840.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "BGC0001662.4"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "detoxin S1"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC005879 [GCF_040629775.1]",
+   "target": "flaviolin/1,3,6,8-tetrahydroxynaphthalene"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0001556.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0001529.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0002439.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "BGC0002367.2"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "flaviolin/1,3,6,8-tetrahydroxynaphthalene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "rotihibin A"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC006012 [GCF_042871185.1]",
+   "target": "diastaphenazine/izumiphenazine C"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "BGC0000368.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "BGC0002690.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "BGC0002506.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "BGC0001036.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "BGC0000140.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "griseobactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC046853 [GCF_040645155.1]",
+   "target": "FW0622"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "BGC0000850.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "BGC0000401.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC050997 [GCF_040660135.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0001454.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0002506.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0000340.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0001283.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0000324.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0001003.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0000401.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0002128.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "BGC0001770.4"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "coelibactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "echoside A/echoside B/echoside C/echoside D/echoside E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "paenibactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "\u03b1-lipomycin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "Bisenarsan"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "sceliphrolactam"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "flaviolin/1,3,6,8-tetrahydroxynaphthalene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057340 [GCF_042667125.1]",
+   "target": "5-dimethylallylindole-3-acetonitrile"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "BGC0001522.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "BGC0000368.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "BGC0000392.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "griseobactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "mirubactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC057699 [GCF_042799375.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "BGC0001310.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "2-methylisoborneol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC058175 [GCF_042883885.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "BGC0001770.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "BGC0001522.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "BGC0000368.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC060322 [GCF_042725565.1]",
+   "target": "sceliphrolactam"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "BGC0002466.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "BGC0002115.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "BGC0000941.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "BGC0001519.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "BGC0001492.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "2-methylisoborneol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown NPDC086147 [GCF_040702165.1]",
+   "target": "abyssomicin M/abyssomicin N/abyssomicin O/abyssomicin P/abyssomicin Q/abyssomicin R/abyssomicin S/abyssomicin T/abyssomicin U/abyssomicin V/abyssomicin W/abyssomicin X"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "BGC0001043.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "BGC0000546.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "BGC0000423.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "BGC0001792.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "BGC0000941.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "BGC0002115.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "BGC0000034.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "scabichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "SAL-2242"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "desferrioxamin B"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "SGR PTMs/SGR PTM Compound b/SGR PTM Compound c/SGR PTM Compound d"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown SM8 [GCF_000299175.2]",
+   "target": "streptamidine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0002367.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0000423.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0000040.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0000678.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0002307.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0000140.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "concanamycin A"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "scabichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "humidimycin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces Unknown VNUA24 [GCF_029167005.1]",
+   "target": "rotihibin A"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "BGC0001043.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "BGC0001574.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "BGC0002115.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "BGC0000034.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "BGC0001792.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "BGC0000941.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "BGC0000496.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "AmfS"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "desferrioxamin B"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "SGR PTMs/SGR PTM Compound b/SGR PTM Compound c/SGR PTM Compound d"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "SF2768"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces albidoflavus NPDC001745 [GCF_040297505.1]",
+   "target": "streptamidine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0000175.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0002115.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0001043.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0000496.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0000941.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0001310.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0000368.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "cycloheximide"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "griseobactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "AmfS"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "desferrioxamin B"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "SGR PTMs/SGR PTM Compound b/SGR PTM Compound c/SGR PTM Compound d"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces anulatus NBC_00535 [GCF_036346555.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000368.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000392.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0001522.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000324.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000662.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000065.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0002115.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "BGC0000001.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "coelibactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "mirubactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "grixazone A"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces atroolivaceus NPDC093820 [GCF_040683255.1]",
+   "target": "streptamidine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "BGC0001310.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "BGC0000941.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "BGC0001634.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "BGC0000496.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "BGC0002672.2"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "AmfS"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "desferrioxamin B"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "naringenin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "keywimysin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces durocortorensis C11-1 [GCF_031760065.1]",
+   "target": "saccharothrixin D/saccharothrixin E/saccharothrixin F/saccharothrixin G/saccharothrixin H/saccharothrixin I/saccharothrixin J/saccharothrixin K/saccharothrixin L/saccharothrixin M"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "BGC0000683.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "BGC0001808.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "BGC0001368.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "BGC0002051.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "BGC0000551.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "BGC0000140.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "BGC0000633.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "SapB"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "carotenoid"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "avermitilol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces erythrochromogenes NRRL B-2112 [GCF_000725555.1]",
+   "target": "JBIR-126"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0000678.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0002725.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0001574.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0001778.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0000423.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0001454.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0001596.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "BGC0001760.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "germicidin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "SF2768"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "fluostatin M/fluostatin N/fluostatin O/fluostatin P/fluostatin Q"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "flaviolin/1,3,6,8-tetrahydroxynaphthalene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hyaluromycini NBRC 110483 [GCF_002217755.1]",
+   "target": "prunipeptin"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "BGC0002305.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "BGC0000340.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "echoside A/echoside B/echoside C/echoside D/echoside E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "2-methylisoborneol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces hygroscopicus DSM 41954 [GCF_037126205.1]",
+   "target": "legonoxamine A/desferrioxamine B/legonoxamine B"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0001492.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0000678.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0001753.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0002725.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "BGC0001519.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "albaflavenone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "abyssomicin M/abyssomicin N/abyssomicin O/abyssomicin P/abyssomicin Q/abyssomicin R/abyssomicin S/abyssomicin T/abyssomicin U/abyssomicin V/abyssomicin W/abyssomicin X"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces incarnatus NRRL 8089 [GCF_001027185.1]",
+   "target": "radamycin/globimycin"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "BGC0000606.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "BGC0000249.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "BGC0000551.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "BGC0001036.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "BGC0000040.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "concanamycin A"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "SapB"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces katrae S3 [GCF_002028425.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0000368.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0001310.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0000941.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0001634.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0000496.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0002365.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0002115.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "BGC0000606.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "griseobactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "AmfS"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "2-methylisoborneol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "desferrioxamin B"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "keywimysin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces microflavus NBC_01194 [GCF_036010585.1]",
+   "target": "10-epi-HSAF/10-epi-3-deOH-HSAF/10-epi-maltophilin/10-epi-xanthobaccin C/10-epi-hydroxymaltophilin/10-epi-FI-2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0000324.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0002128.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0000633.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0000034.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0000546.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "BGC0001596.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "coelibactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "SAL-2242"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "carotenoid"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "fluostatin M/fluostatin N/fluostatin O/fluostatin P/fluostatin Q"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces mutabilis NPDC058354 [GCF_042723675.1]",
+   "target": "5-dimethylallylindole-3-acetonitrile"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "BGC0000606.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "BGC0002051.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "BGC0001368.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "BGC0002095.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "BGC0000382.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "BGC0000683.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "JBIR-126"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "antipain"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces nojiriensis NBC_00471 [GCF_036013835.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "BGC0000842.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "BGC0002517.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "BGC0002081.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "BGC0001840.2"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "detoxin S1"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces papulosa NBC_01269 [GCF_036240075.1]",
+   "target": "tripartilactam/niizalactam C"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0001840.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0000249.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0001283.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0001818.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0000195.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0000140.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0002517.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "alnumycin A/alnumycin B/alnumycin C/alnumycin P/prealnumycin/thalnumycin A/thalnumycin B/K1115A/1,6-dihydro-8-propylanthraquinone"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "Bisenarsan"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "detoxin S1"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces phaeochromogenes NBC_00186 [GCF_035917195.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "BGC0001778.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "BGC0001634.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "BGC0000941.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "BGC0002006.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "BGC0000368.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "BGC0000496.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "BGC0002568.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "BGC0002365.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "BGC0002115.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "griseobactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "AmfS"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "desferrioxamin B"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces rubiginosohelvolus NPDC091196 [GCF_040684535.1]",
+   "target": "keywimysin"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "BGC0001188.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "BGC0002051.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "BGC0001310.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "BGC0001753.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "BGC0002305.2"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "legonaridin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "naringenin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "antipain"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces sioyaensis NPDC052383 [GCF_040679175.1]",
+   "target": "legonoxamine A/desferrioxamine B/legonoxamine B"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0000249.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0001368.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0000551.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0000382.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0002439.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0001662.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "BGC0002051.2"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "SapB"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "JBIR-126"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "mediomycin A"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces spororaveus NPDC006490 [GCF_042870575.1]",
+   "target": "antipain"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "BGC0002051.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "BGC0000324.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "BGC0001188.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "BGC0002305.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "BGC0000551.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "BGC0001840.2"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "coelibactin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "SapB"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "legonaridin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "detoxin S1"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces tubercidicus NBC_00475 [GCF_036013785.1]",
+   "target": "antipain"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "BGC0000518.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "BGC0001454.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "BGC0000908.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "BGC0002354.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "BGC0000660.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "BGC0002174.2"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "BGC0002127.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "informatipeptin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "melanin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "desferrioxamin B/desferrioxamine E"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "germicidin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "flaviolin/1,3,6,8-tetrahydroxynaphthalene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "\u03b5-Poly-L-lysine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces violaceus NBC_00293 [GCF_036226305.1]",
+   "target": "huimycin"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "BGC0000606.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "BGC0000551.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "BGC0000382.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "BGC0002095.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "BGC0000940.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "BGC0000325.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "BGC0001368.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "BGC0002051.2"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "coelichelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "2-methylisoborneol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "JBIR-126"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces xanthophaeus GA114 Liu [GCF_030440515.1]",
+   "target": "leupeptin Pr/leupeptin Ac"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "BGC0000941.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "BGC0000354.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "BGC0002115.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "BGC0002340.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "BGC0000563.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "BGC0002466.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "friulimicin A/friulimicin B/friulimicin C/friulimicin D"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "venezuelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "2-methylisoborneol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "ectoine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "streptamidine"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_00415 [GCF_036035005.1]",
+   "target": "pyrroloformamide A/pyrroloformamide B/pyrroloformamide D/pyrroloformamide C"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0000853.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0001181.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0000664.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0000282.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0000941.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0000354.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0002340.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0000663.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0000563.4"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0002466.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0000658.3"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0000271.5"
+  },
+  {
+   "etype": "carries",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "BGC0000633.3"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "spore pigment"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "2-methoxy-5-methyl-6-(13-methyltetradecyl)-1,4-benzoquinone/2-methoxy-5-methyl-6-(13-methyltetradecyl)phenol"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "friulimicin A/friulimicin B/friulimicin C/friulimicin D"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "venezuelin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "carotenoid"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "hopene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "isorenieratene"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "geosmin"
+  },
+  {
+   "etype": "produces",
+   "source": "Streptomyces zaomyceticus NBC_01228 [GCF_035991205.1]",
+   "target": "pyrroloformamide A/pyrroloformamide B/pyrroloformamide D/pyrroloformamide C"
+  }
+ ]
+}
