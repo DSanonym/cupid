@@ -10,22 +10,15 @@ Microbes carry biosynthetic gene clusters, and they produce molecules. Which clu
 which molecule is mostly unknown — of the millions of clusters predicted from public genomes,
 only a fraction of a percent have an experimentally verified product.
 
-Cupid attacks that problem as **constraint satisfaction on a bipartite graph** rather than as a
-ranking task.
+Cupid attacks that problem as **constraint satisfaction on a bipartite graph**.
 
 ---
 
 ## The Idea
 
-One rule does the work: a gene cluster family can explain a compound only if it is present in
-**every** genome producing that compound. So the candidates for a compound are the *intersection*
-of the family sets of all its producers.
+Cupid links a compound only to gene cluster families present in **every** strain producing it.
 
-Two consequences distinguish Cupid from existing approaches. Assignments are **global**: using a
-family to explain one compound makes it unavailable for another, so the reported links always
-form a coherent joint explanation. And the answer is a **set**, not a point: Cupid samples the
-feasible assignments, marginalizes over them, and collapses indistinguishable ones into a
-quotient graph, so ambiguity is reported rather than hidden behind an arbitrary ranking.
+Assignments are **global**, so one family cannot explain multiple compounds. Cupid samples all plausible assignments and summarizes them in a compact graph, making ambiguity explicit instead of hiding it in a ranking.
 
 ---
 
