@@ -28,23 +28,23 @@ Assignments are **global**, so one family cannot explain multiple compounds. Cup
 cupid/
 ├── data/
 │   ├── dataset1_streptomyces/       # antiSMASH-DB, metabolites simulated by masking
-│   │   ├── ground_truth_metabologenomics_graph.json   # microbe → family → molecule (tracked)
-│   │   ├── masked_metabologenomics_graph.json         # family → molecule removed    (tracked)
-│   │   ├── node_features.csv                          # BGC and molecule sizes       (tracked)
+│   │   ├── ground_truth_metabologenomics_graph.json   # microbe → family → molecule 
+│   │   ├── masked_metabologenomics_graph.json         # family → molecule removed  
+│   │   ├── node_features.csv                          # BGC and molecule sizes 
 │   │   └── raw/                                       # cached downloads
 ├── notebooks/
 │   ├── 01_streptomyces_preprocess_data.ipynb   # build the ground-truth and masked graphs
 │   ├── 02_streptomyces_cupid.ipynb             # sample assignments, marginalize
 │   ├── 03_streptomyces_baseline.ipynb          # Fisher's exact test, for comparison
 ├── output/                          # generated figures, one folder per notebook
-├── pyproject.toml                   # dependencies (managed by uv)
+├── pyproject.toml                   # dependencies
 ├── uv.lock                          # locked versions
 └── README.md
 ```
 
-### Dataset 1 — *Streptomyces*, notebooks 01 to 03
+### *Streptomyces* Data Analysis 
 
-**01 — preprocess.** Downloads cluster predictions from antiSMASH-DB, groups them into families,
+**01 — Preprocess.** Downloads cluster predictions from antiSMASH-DB, groups them into families,
 and writes two graphs: the ground truth (`microbe → family → molecule`) and a masked version with
 every `family → molecule` edge removed and replaced by the `microbe → molecule` links an experiment
 would actually observe. Recovering the deleted edge is the task.
@@ -53,7 +53,7 @@ would actually observe. Recovering the deleted edge is the task.
 assignments consistent with all constraints simultaneously, and marginalizes over them to get
 per-link support plus the quotient graph of indistinguishable solutions.
 
-**03 — baseline.** The same data scored the conventional way: every cluster–molecule pair tested
+**03 — Baseline.** The same data scored the conventional way: every cluster–molecule pair tested
 independently with a one-sided Fisher's exact test. The comparison of interest is not only accuracy
 but what each method reports when the data cannot identify a unique answer.
 
