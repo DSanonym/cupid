@@ -77,7 +77,7 @@ uv sync --locked
 uv run jupyter lab
 ```
 
-Run the notebooks in this order: 01 (preprocess), 03 (baseline), then 02 (Cupid). Notebook 01 is
+To exactly reproduce the paper, run the notebooks in this order: 01 (preprocess), 03 (baseline), then 02 (Cupid). Notebook 01 is
 idempotent: if the two graph files are already present, it loads them and regenerates the figures.
 Raw downloads are cached, so rerunning it does not require network access.
 
@@ -129,7 +129,7 @@ Figures 2 and 3 are composites; the panels come from the outputs below.
 - Figure 4, `output/02_streptomyces_cupid/part9_recall_at_k_prior` — the biological-prior
   experiment
 - Figure 5, `output/02_streptomyces_cupid/part11_ablation_recall_at_k` — robustness of the
-  score weights over α > β > μ (Appendix `app:ablation`). The accompanying table is built
+  score weights over α > β > μ. The accompanying table is built
   from `part11_ablation_summary.csv`.
 
 
