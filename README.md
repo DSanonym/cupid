@@ -4,7 +4,7 @@
 matchings, to a summary graph](overview.jpg)
 
 **C**onstraint-based **U**ncertainty-aware **P**airing for Unsupervised **I**nterpretable
-Natural-product **D**iscovery.
+Natural-product **D**iscovery (version 0.1).
 
 Microbes carry biosynthetic gene clusters, and they produce molecules. Which cluster produces
 which molecule is mostly unknown — of the millions of clusters predicted from public genomes,
@@ -71,7 +71,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 # 2. Clone and install dependencies
 git clone https://github.com/gerritgr/cupid.git
 cd cupid
-uv sync
+uv sync --locked
 
 # 3. Launch JupyterLab
 uv run jupyter lab
@@ -86,7 +86,7 @@ Raw downloads are cached, so rerunning it does not require network access.
 From the repository root, with [uv](https://docs.astral.sh/uv/) installed:
 
 ```bash
-uv sync && cd notebooks && \
+uv sync --locked && cd notebooks && \
 uv run jupyter nbconvert --to script \
   01_streptomyces_preprocess_data.ipynb \
   03_streptomyces_baseline.ipynb \
