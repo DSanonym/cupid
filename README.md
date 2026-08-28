@@ -77,16 +77,26 @@ uv sync
 uv run jupyter lab
 ```
 
-Run the notebooks in order within a dataset. Notebooks 01 and 04 are idempotent: if the two graph
-files are already present they load them and only regenerate figures, so you can go straight to the
-Cupid notebook. Notebook 07 caches every download, so a second run touches the network zero times.
+Run the notebooks in this order: 01 (preprocess), 03 (baseline), then 02 (Cupid). Notebook 01 is
+idempotent: if the two graph files are already present, it loads them and regenerates the figures.
+Raw downloads are cached, so rerunning it does not require network access.
 
 ### One-Click Reproduction
 
 From the repository root, with [uv](https://docs.astral.sh/uv/) installed:
 
 ```bash
-uv sync && cd notebooks && uv run jupyter nbconvert --to script *.ipynb && for f in *.py; do uv run python "$f" || break; done
+uv sync && cd notebooks && \
+uv run jupyter nbconvert --to script \
+  01_streptomyces_preprocess_data.ipynb \
+  03_streptomyces_baseline.ipynb \
+  02_streptomyces_cupid.ipynb && \
+for f in \
+  01_streptomyces_preprocess_data.py \
+  03_streptomyces_baseline.py \
+  02_streptomyces_cupid.py; do
+  uv run python "$f" || break
+done
 ```
 
 This installs the environment, converts every notebook to a script, and runs them in order. The
